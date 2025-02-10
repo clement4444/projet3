@@ -1,5 +1,5 @@
 import { UseTokenContext } from "../../../../context/tokenContext";
-import style from "./HomeHero.module.css";
+import style from "./homeHero.module.css";
 import AllFilme from "./allFilme/AllFilme";
 import AllSerie from "./allSerie/AllSerie";
 import Categorie from "./categorie/Categorie";
