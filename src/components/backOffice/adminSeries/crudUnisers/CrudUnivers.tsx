@@ -49,7 +49,7 @@ const CrudUnivers = ({ updateInfoGeneral }: CrudUniversProps) => {
 
       if (data.sucssces) {
         if (data.isUnivers) {
-          //set les univers si il en a
+          //set les univer si il en a
           setUnivers(data.articles);
         }
         //set Etat si il est dans un univers
