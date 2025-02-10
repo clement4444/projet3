@@ -1,0 +1,15 @@
+.typeInput {
+  font-size: 1.5em;
+  color: white;
+  border: 3px #28262d solid;
+  background-color: transparent;
+  padding: 0.2em .5em;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.typeInput option {
+  color: white;
+  background-color: black;
+  border: 3px #28262d solid;
+}

@@ -1,0 +1,29 @@
+.contenerNavBarre {
+  position: absolute;
+  width: 100%;
+  z-index: 50;
+}
+
+.navBarre {
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.logo img {
+  height: 8em;
+  display: block;
+  margin-left: 2em;
+  margin-top: 1em;
+  cursor: pointer;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1.3em;
+  margin-top: 2em;
+  margin-right: 1.5em;
+}

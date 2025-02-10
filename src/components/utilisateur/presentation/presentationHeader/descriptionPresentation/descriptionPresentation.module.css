@@ -1,0 +1,46 @@
+.contenerDescitpion {
+  display: flex;
+  flex-direction: column;
+  gap: .2em;
+}
+
+.contenerbule {
+  display: flex;
+  align-items: center;
+  gap: .6em;
+}
+
+.typeSerie {
+  color: white;
+  font-size: .7em;
+  background-color: #0d0c0f;
+  border-radius: 100px;
+  padding: .3em .5em .35em .5em;
+}
+
+.preume {
+  color: white;
+  font-size: .7em;
+  background-color: #0d0c0f;
+  border-radius: 100px;
+  padding: 0 .5em .35em .5em;
+}
+
+.pTitre {
+  color: white;
+  font-size: 1.4em;
+  font-weight: 600;
+  width: 16em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.saison {
+  color: white;
+  font-size: 0.8em;
+}
+
+.infoDivert {
+  color: #9ca4ab;
+  font-size: 0.5em;
+}
