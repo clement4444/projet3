@@ -2,7 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { UseTokenContext } from "../../../../context/tokenContext";
-import style from "./CrudEpisode.module.css";
+import style from "./crudEpisode.module.css";
 import BntAjouterSerie from "./bntAjouterSerie/BntAjouterSerie";
 import ElementCurd from "./elementCurd/ElementCurd";
 
@@ -55,7 +55,7 @@ const CrudUnivers = ({ updateInfoGeneral }: CrudUniversProps) => {
         //set Etat si il est dans un univers
         setDansUnivers(data.isUnivers);
       }
-    } catch (error) {}
+    } catch (error) { }
   };
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: <explanation>

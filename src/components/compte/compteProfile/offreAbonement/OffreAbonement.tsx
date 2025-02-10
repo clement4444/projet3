@@ -1,4 +1,4 @@
-import style from "./OffreAbonement.module.css";
+import style from "./offreAbonement.module.css";
 import BntUpgrade from "./bntUpgrade/BntUpgrade";
 
 interface OffreAbonementProps {
