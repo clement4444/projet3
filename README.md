@@ -69,6 +69,12 @@ CinéStream est une plateforme de streaming qui permet aux utilisateurs de déco
 ### 🚀 Hébergement  
 ![o2switch](https://img.shields.io/badge/o2switch-FF6600?logoColor=white)
 
+### 🔨 Outils
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+
 ## 👨‍💻 Développeur fondateur
 - **[@clément](https://github.com/clement4444)**</br>
 - **[@philippe](https://github.com/Philippevde)**
