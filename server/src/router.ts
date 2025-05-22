@@ -18,9 +18,9 @@ import utilisateurActions from "./modules/utilisateur/utilisateurActions";
 const router = express.Router();
 
 // degub
-import debugServeur from "./modules/debugServeur/debugServeur";
+// import debugServeur from "./modules/debugServeur/debugServeur";
 
-router.get("/api", debugServeur.homeDegube);
+// router.get("/api", debugServeur.homeDegube);
 // fin degub
 
 //route utilisateur

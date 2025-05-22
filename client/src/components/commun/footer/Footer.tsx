@@ -1,10 +1,8 @@
 import style from "./footer.module.css";
 
 const Footer = () => {
-  const a_sup: any = "coucou"
   return (
     <footer>
-      {a_sup}
       <div className={`${style.contenerSection}`}>
         <img
           className={`${style.logoFooter}`}
