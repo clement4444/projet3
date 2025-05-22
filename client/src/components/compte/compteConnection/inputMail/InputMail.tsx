@@ -7,8 +7,8 @@ interface ValideProps {
 }
 
 interface InputMailProps {
-  email: any;
-  setEmail: any;
+  email: string;
+  setEmail: (email: string) => void;
   valide: ValideProps;
   setValide: (valide: ValideProps) => void;
 }
